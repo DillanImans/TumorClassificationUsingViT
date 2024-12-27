@@ -1,7 +1,7 @@
 # Tumor Classification using a Vision Transformer
 
 ### Project Desc
-Classifying MRI scans between tumor and healthy brains using a Vision Transformer.
+Classifying MRI scans between tumor and healthy brains using a Vision Transformer. My first ever trial with all this AI stuff :)
 <br/>
 
 ### Project Characteristics
